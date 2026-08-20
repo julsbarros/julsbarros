@@ -30,9 +30,8 @@
 
 ## Bonfires Lit — Education
 
-| | Course | Status |
-|:---:|:---|:---:|
-| ◈ | M-TEC Desenvolvimento de Sistemas| 🔄 In Progress |
+## Course
+Desenvolvimento de Sistemas
 
 ---
 

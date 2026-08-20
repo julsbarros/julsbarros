@@ -1,14 +1,3 @@
-
-
-<!-- CONTACT -->
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-barros-b2365b410?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BydAWPlfERPaAGPesKzmz4g%3D%3D)
-
-</div>
-
-<br/>
-
 <div align="center">
 
 </div>
@@ -25,10 +14,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=c9a84c)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=c9a84c)
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
-
-</div>
-## Course
-Desenvolvimento de Sistemas
 
 ---
 

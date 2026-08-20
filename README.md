@@ -1,9 +1,4 @@
-<!-- BANNER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/juliasbarros/juliasbarros/main/bannerjpg.jpg" width="100%" alt="banner"/>
-</div>
 
-<br/>
 
 <!-- CONTACT -->
 <div align="center">
@@ -33,7 +28,7 @@
 
 </div>
 
-## 🕯️ Bonfires Lit — Education
+## Bonfires Lit — Education
 
 | | Course | Status |
 |:---:|:---|:---:|

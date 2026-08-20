@@ -27,9 +27,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
 
 </div>
-
-## Bonfires Lit — Education
-
 ## Course
 Desenvolvimento de Sistemas
 

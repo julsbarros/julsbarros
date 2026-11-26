@@ -2,8 +2,6 @@
 
 </div>
 
-## Technologies
-
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor#F4C2C2)

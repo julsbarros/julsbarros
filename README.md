@@ -19,6 +19,6 @@
 
 <div align="center">
 
-*† The rest is silence †*
+The rest is silence 
 
 </div>

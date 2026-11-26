@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor#F4C2C2)
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=F4C2C2)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor#F4C2C2)
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor#F4C2C2)
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor#F4C2C2)

@@ -19,6 +19,6 @@
 
 <div align="center">
 
-*_just keep going_*
+_*just keep going*_
 
 </div>
